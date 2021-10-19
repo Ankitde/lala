@@ -1,7 +1,7 @@
 import googletrans
 from time import sleep
 print('NOTE:-please connect your computer with internet.(if connected please ignore)')
-a = input('PRESS ANY KEY TO PROCEED')
+a = input('PRESS ENTER TO PROCEED')
 print('These are the language and the code words (choose any one and enter the code word) : ',googletrans.LANGUAGES)
 sleep(5)
 c = input('Enter the code word: ')
